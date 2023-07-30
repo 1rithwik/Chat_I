@@ -381,7 +381,7 @@ header h2 {
 }
 @media (max-width: 490px) {
   .chatbot-toggler {
-    right: 170px;
+    right: 190px;
     bottom: 5px;
   }
   .chatbot {
@@ -397,6 +397,7 @@ header h2 {
   }
   .chatbot .chat-input {
     padding: 5px 15px;
+    display:block;
   }
   .chatbot header span {
     display: block;
