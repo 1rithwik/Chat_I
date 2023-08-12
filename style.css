@@ -129,7 +129,7 @@ body {
 	padding: 1.5%;
 	animation: animate 20s infinite linear forwards;
     background-blend-mode: soft-light;
-	background-size:auto 100%,cover;
+	background-size:cover;
     background-repeat:no-repeat,repeat-x;
     background-position: 100% 100%,50% 50%;
 	opacity: 1.0;
@@ -386,7 +386,7 @@ header h2 {
   }
   .chatbot {
     right: 0;
-    bottom: 56px;
+    bottom: 58px;
     height: 94%;
     border-radius: 0;
     width: 100%;
